@@ -1,0 +1,59 @@
+div label {
+    display: inline-block;
+    text-align: left;
+    width: 300px;
+    margin-top: 2px;
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold;
+}
+
+#yourInput{
+    display: none;
+}
+
+textarea {
+    margin-top: 2px;
+    margin-right: 20px;
+}
+
+img {
+    width: 15%;
+}
+
+.alignbutton {
+    padding-left: 30px;
+}
+
+.alignTA {
+    vertical-align: bottom;
+}
+
+textarea {
+    margin-left: 20px;
+}
+
+input[type=submit] {
+    border-radius: 5px;
+    width: 150px;
+}
+
+input[type=text] {
+    display: inline-block;
+    width: 150px
+}
+
+section div input[type=text] {
+    width: 250px
+}
+
+#alienAbForm {
+    font-size: 1.3em;
+}
+
+.error {
+    font-weight: bold;
+    color: red;
+}
